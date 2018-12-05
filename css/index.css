@@ -17,7 +17,7 @@
     display: block;
     width: 20px;
     height: 20px;
-    background: url('./images/jd-sprites.png') -60px -110px;
+    background: url('../images/jd-sprites.png') -60px -110px;
     background-size: 200px;
     position: absolute;
     top: 7px;
@@ -27,7 +27,7 @@
     display: inline-block;
     width: 56px;
     height: 21px;
-    background: url('./images/jd-sprites.png') 0 -109px;
+    background: url('../images/jd-sprites.png') 0 -109px;
     background-size: 200px;
     position: absolute;
     left: 7px;
@@ -90,7 +90,7 @@
     display: block;
     width: 20px;
     height: 20px;
-    background: url('./images/jd-sprites.png') -83px -110px;
+    background: url('../images/jd-sprites.png') -83px -110px;
     background-size: 200px;
     margin: 0 6px 0 6px;
     float: left;
@@ -315,7 +315,7 @@
 .lick_bg{
     width: 18px;
     height: 18px;
-    background: url('./images/icon-login.png');
+    background: url('../images/icon-login.png');
     background-size: 18px;
     position: absolute;
     right: 101px;
@@ -414,15 +414,15 @@
     color: #666;
 }
 .fec_bg1{
-    background: url('./images/jd-sprites.png') -120px -70px;
+    background: url('../images/jd-sprites.png') -120px -70px;
     background-size: 200px;
 }
 .fec_bg2{
-    background: url('./images/jd-sprites.png') -40px -70px;
+    background: url('../images/jd-sprites.png') -40px -70px;
     background-size: 200px;
 }
 .fec_bg3{
-    background: url('./images/jd-sprites.png') -80px -70px;
+    background: url('../images/jd-sprites.png') -80px -70px;
     background-size: 200px;
 }
 .cop{
